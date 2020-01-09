@@ -22,9 +22,9 @@ You do not need to download the config at this point.
 Create Link
 #############
 
-Now we need to create the link we'll need in OPNsense, all you need to do now is to replace the 'My Licence key' part of the link below with your license key.
+Now we need to create the link we'll need in OPNsense, all you need to do now is to replace the 'My License key' part of the link below with your license key.
 
-https://download.maxmind.com/app/geoip_download?edition_id=GeoLite2-Country-CSV&licence_key=My_Licence_key&suffix=zip
+https://download.maxmind.com/app/geoip_download?edition_id=GeoLite2-Country-CSV&license_key=My_License_key&suffix=zip
 
 You can check that you have done it correctly by just pasting the link into a browser, it should download the zip file.
 
